@@ -19,12 +19,14 @@ Using the IBM HR Analytics dataset (1,470 employees), I analyzed which factors a
 - **HR Operations & Compliance:** Payroll, compensation and total rewards, benefits and leave administration, California wage-and-hour compliance, EEO/AAP and pay data reporting
 - **Learning:** Python (pandas), Power BI
 
-## Certifications & Accomplishments
+## Certifications & Education
 - **PHR (Professional in Human Resources)**, HR Certification Institute (HRCI)
 - **Google Data Analytics Professional Certificate**, Coursera
 - **Data Analysis Program**, Calbright College
 - **Business Administration Diploma**, Santa Barbara Business College
 - **Power BI course**, Coursera (in progress)
+
+## Highlights
 - Designed an automated Total Rewards Statement solution (Excel, VBA, Word) for about 1,000 employees, replacing a manual process that took several days; recognized by executive leadership
 
 ## Contact
