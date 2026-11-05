@@ -10,7 +10,7 @@ I'm drawn to the technical side of HR: finding data problems, fixing them at the
 ### [HR Attrition Case Study](https://github.com/sand-ayon/hr-turnover-case-study)
 Using the IBM HR Analytics dataset (1,470 employees), I analyzed which factors are most associated with employees leaving. I verified and cleaned the data in BigQuery with SQL, compared attrition rates across 12 factors, tested for overlapping (confounding) factors, and built a Tableau dashboard to share the results. The strongest finding: employees working overtime terminated at three times the rate of those who didn't, and new hires on overtime terminated at 55%.
 
-[View the case study on GitHub](https://github.com/sand-ayon/hr-turnover-case-study) · [View the Tableau dashboard](https://public.tableau.com/app/profile/sandra.ayon7278/viz/HRAttritionCaseStudy_17936714709390/HRAttritionDashboard)
+[View the case study on GitHub](https://github.com/sand-ayon/hr-turnover-case-study) · [View the Tableau dashboard](https://public.tableau.com/app/profile/sandra.ayon7278/viz/HRAttritionCaseStudy_17936714709390/HRAttritionDashboard) · [View the Python notebook on Kaggle](https://www.kaggle.com/code/sandraayon/hr-attrition-case-study)
 
 ## Skills
 - **HRIS:** SAP ECC (PA, OM, TM, PY), SAP SuccessFactors (Employee Central, Compensation), UKG Pro, UKG Workforce Management
