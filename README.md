@@ -21,7 +21,7 @@ Using the IBM HR Analytics dataset (1,470 employees), I analyzed which factors a
 
 ## Certifications & Accomplishments
 - **PHR (Professional in Human Resources)**, HR Certification Institute (HRCI)
-- **Google Data Analytics Professional Certificate** (in progress)
+- **Google Data Analytics Professional Certificate**, Coursera
 - **Data Analysis Program**, Calbright College
 - **Business Administration Diploma**, Santa Barbara Business College
 - **Power BI course**, Coursera (in progress)
