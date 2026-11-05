@@ -17,7 +17,7 @@ Using the IBM HR Analytics dataset (1,470 employees), I analyzed which factors a
 - **Data & Reporting:** SQL (BigQuery), Tableau, Advanced Excel (Power Query, VBA), Microsoft Access, SAP BusinessObjects, SuccessFactors reporting
 - **Data Management:** Data migration, validation, reconciliation, audits, and mass data loads (Winshuttle, SAP LSMW, SuccessFactors Integration Center)
 - **HR Operations & Compliance:** Payroll, compensation and total rewards, benefits and leave administration, California wage-and-hour compliance, EEO/AAP and pay data reporting
-- **Learning:** Python, Power BI
+- **Learning:** Python (pandas), Power BI
 
 ## Certifications & Accomplishments
 - **PHR (Professional in Human Resources)**, HR Certification Institute (HRCI)
