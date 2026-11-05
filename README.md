@@ -30,3 +30,4 @@ Using the IBM HR Analytics dataset (1,470 employees), I analyzed which factors a
 ## Contact
 - **Email:** sandra.ayon12@gmail.com
 - **LinkedIn:** [linkedin.com/in/sandra-ayon](https://www.linkedin.com/in/sandra-ayon)
+- **Resume:** [View my resume (PDF)](Sandra_Ayon_Resume.pdf)
