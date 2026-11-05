@@ -1,6 +1,5 @@
 # Sandra Ayon
 **HR & HRIS Professional | Data Analytics**
-Bakersfield, California
 
 ## About Me
 I'm an HR and HRIS professional who combines hands-on experience in HR operations, payroll, and compliance with data analytics. At Aera Energy Services, I was a power user and subject matter expert in SAP ECC, SAP SuccessFactors, and UKG Pro. I supported HRIS implementations, data migrations, annual compensation cycles, and compliance reporting for an employee population of 1,000+.
